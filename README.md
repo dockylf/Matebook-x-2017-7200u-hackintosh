@@ -12,7 +12,7 @@
 
 引导/Boot：Opencore 0.8.6
 
-可用Available: 无线网络、蓝牙、显卡、触控板、热键、背光、声卡、电池Wifi\bluetooth\Graphics\Trackpad\Hotkey\Brightness\Audio\Battery
+可用Available: 无线网络、蓝牙、显卡、触控板、热键、背光、声卡、电池、摄像头Wifi\bluetooth\Graphics\Trackpad\Hotkey\Brightness\Audio\Battery\Camera
 
 不可用Unavailable: 指纹、隔空投送Fingerprint\Airdrop
 
