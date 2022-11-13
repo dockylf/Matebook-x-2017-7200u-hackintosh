@@ -28,3 +28,4 @@ Trim:为提升开机速度，我已关闭启动期间的trim保护(原开机时�
 
 澎湖冰洲，神楽小白 for Trackpad fix
 
+LEONLIIIIII for fix EFI.
